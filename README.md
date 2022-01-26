@@ -64,3 +64,4 @@ Representa un comentario sobre un vendedor que ha dejado un usuario tras comprar
 
 
 # Descripción del servicio interno
+La aplicación utilizará un servicio interno (no accesible de forma directa por los usuarios) de correo/mensajería para facilitar la comunicación entre usuarios. Utilizando este servicio, los usuarios podrán enviar y recibir mensajes de otros usuarios (además de consultar los mensajes que se hayan enviado o recibido en el pasado).
