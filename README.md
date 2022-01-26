@@ -20,7 +20,7 @@ Los usuarios registrados tienen cuentas. Las cuentas también tienen una serie d
 - Una **puntuación de vendedor**, que se calcula en base a las puntuaciones que recibe de los compradores de sus ofertas.
 - Puede haber uno o varios **comentarios** (de compradores) asociados a una cuenta.
 
-Cuando un usuario compra una oferta, debe puntuar al vendedor. La puntuación de vendedor de una cuenta es la media aritmética de todas las puntuaciones que recibe un usuario de este modo. Opcionalmente el comprador puede también dejar un comentario. Los comentarios tienen **autor** y **contenido**.
+Cuando un usuario _compra_ una oferta, debe puntuar al vendedor. La puntuación de vendedor de una cuenta es la media aritmética de todas las puntuaciones que recibe un usuario de este modo. Opcionalmente el comprador puede también dejar un comentario. Los comentarios tienen **autor** y **contenido**.
 # Parte pública y privada de la aplicación
 # Descripción de las entidades
 # Descripción del servicio interno
