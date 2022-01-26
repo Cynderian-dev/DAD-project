@@ -31,7 +31,7 @@ Los usuarios registrados tendrán a su disposición toda la funcionalidad de la 
 - Consultar ofertas y perfiles (igual que un usuario no registrado).
 - Crear ofertas.
 - _Comprar_ ofertas.
-- Administrar su cuenta, cambiando por ejemplo la contraseña.
+- Administrar su cuenta, por ejemplo cambiando la contraseña.
 
 # Descripción de las entidades
 # Descripción del servicio interno
