@@ -1,5 +1,5 @@
 # DAD-project
-NOMBRE es una aplicación genérica de compra y venta de cosas. Cualquiera puede consultar las ofertas (los ítems a la venta en un momento dado), y los usuarios registrados pueden también (entre otras cosas) poner ítems en venta o comprarlos.
+Sellhub es una aplicación genérica de compra y venta de cosas. Cualquiera puede consultar las ofertas (los ítems a la venta en un momento dado), y los usuarios registrados pueden también (entre otras cosas) poner ítems en venta o comprarlos.
 # Funcionamiento general de la aplicación
 Los usuarios registrados pueden crear **ofertas**. Las ofertas tienen una serie de propiedades:
 - Un **vendedor** (el usuario que las creó).
