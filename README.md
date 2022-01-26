@@ -22,5 +22,16 @@ Los usuarios registrados tienen cuentas. Las cuentas también tienen una serie d
 
 Cuando un usuario _compra_ una oferta, debe puntuar al vendedor. La puntuación de vendedor de una cuenta es la media aritmética de todas las puntuaciones que recibe un usuario de este modo. Opcionalmente el comprador puede también dejar un comentario. Los comentarios tienen **autor** y **contenido**.
 # Parte pública y privada de la aplicación
+Los usuarios no registrados de la aplicación podrán:
+- Consultar las ofertas (y filtrarlas).
+- Ver perfiles de cuentas, donde podrán consultar la puntuación de vendedor y los comentarios de una cuenta.
+- Crear una cuenta de usuario (registrarse).
+
+Los usuarios registrados tendrán a su disposición toda la funcionalidad de la aplicación, pudiendo:
+- Consultar ofertas y perfiles (igual que un usuario no registrado).
+- Crear ofertas.
+- _Comprar_ ofertas.
+- Administrar su cuenta, cambiando por ejemplo la contraseña.
+
 # Descripción de las entidades
 # Descripción del servicio interno
